@@ -1,0 +1,7 @@
+From teste Sat Dec 01 09:40:32 2012
+To: user@localhost
+From: Administrador do Sistema <root@localhost>
+Date: Sat, 01 Dec 2012 09:40:32 -0300 (PST)
+Subject: Teste de envio
+
+Este é apenas um teste para a aplicacao de redes

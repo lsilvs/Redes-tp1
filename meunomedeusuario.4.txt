@@ -1,0 +1,7 @@
+From teste Fri Nov 30 21:32:07 2012
+To: user@localhost
+From: Administrador do Sistema <root@localhost>
+Date: Fri, 30 Nov 2012 21:32:07 -0300 (PST)
+Subject: Teste
+
+Este é mais um teste para a aplicacao da disciplina de redes
